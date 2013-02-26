@@ -1,0 +1,5 @@
+RC4 is a simple Python2 implementation of the popular game "Connect Four"!
+I played around a little bit with writing an AI that actually deserves this
+name and the result is not as dumb as one might think (considering that I have
+no expertise in this field whatsoever)! Try it! I think it's pretty difficult to
+win against it, but I might just be horribly bad at the game ;-) ...
